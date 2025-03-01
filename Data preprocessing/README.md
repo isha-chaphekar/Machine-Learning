@@ -2,30 +2,32 @@ Overview
 
 This project demonstrates data preprocessing steps in Machine Learning using Python and scikit-learn. It covers handling missing values, encoding categorical variables, splitting data into training and testing sets, and feature scaling.
 
-Steps Covered:
 
-Loading the Dataset - Reads the dataset using Pandas.
+- Steps Covered:
 
-Handling Missing Values - Replaces missing numerical values with the column mean.
+  Loading the Dataset - Reads the dataset using Pandas.
 
-Encoding Categorical Data
+  Handling Missing Values - Replaces missing numerical values with the column mean.
 
-One-Hot Encoding for independent variables
+  Encoding Categorical Data
 
-Label Encoding for dependent variables
+  One-Hot Encoding for independent variables
 
-Splitting Data - Divides the dataset into training and testing sets (80-20 split).
+  Label Encoding for dependent variables
 
-Feature Scaling - Standardizes numerical values for better model performance.
+  Splitting Data - Divides the dataset into training and testing sets (80-20 split).
 
-Dependencies:
+  Feature Scaling - Standardizes numerical values for better model performance.
 
-Python 3.x
 
-numpy
+- Dependencies:
 
-pandas
+  Python 3.x
 
-scikit-learn
+  numpy
 
-matplotlib (optional)
+  pandas
+
+  scikit-learn
+
+  matplotlib (optional)
